@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory: Overview](https://github.com/RichMeyers7424/)
+  - [Active Directory: Overview](https://github.com/RichMeyers7424/Active-Directory-Overview)
   - [Deploying Active Directory and Creating Users](https://github.com/RichMeyers7424/)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/RichMeyers7424/osticket-prereqs)
